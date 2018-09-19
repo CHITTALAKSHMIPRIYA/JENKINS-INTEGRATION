@@ -15,6 +15,6 @@ public class LaxmiJenkinsDemoApplication {
 	
 	@GetMapping
 	public String displayMessage() {
-		return "Hello World";
+		return "Hello universe";
 	}
 }
